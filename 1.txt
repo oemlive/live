@@ -685,29 +685,15 @@ CHC家庭,http://dbiptv.sn.chinamobile.com/TVOD/88888893/224/3221226462/index.m3
 纪实人文,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001330/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 金鹰纪实,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8
 金鹰纪实,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-乐游,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226580/index.m3u8
 爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-动画1,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228641/index.m3u8
-动画2,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228536/index.m3u8
-动画3,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228539/index.m3u8
-动画4,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228460/index.m3u8
 求索动物,http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
 求索纪录,http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
 求索科学,http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
 求索生活,http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
 
 测试,#genre#
-Test,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/1/224/3221228559/index.m3u8
-Test2,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/1/224/3221228562/index.m3u8
-Test3,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/1/224/3221228644/index.m3u8
 AEW,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-ELEVEN1,rtmp://9sv2.mine.nu/sat/tv731
-ELEVEN2,rtmp://9sv2.mine.nu/sat/tv741
-MoMo综合,rtmp://9sv2.mine.nu/sat/tv761
-TVB JADE,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153505
-TVB-E,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153398
-TVB-J1,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153395
-TVBS欢乐,rtmp://9sv2.mine.nu/sat/tv421
+VBS欢乐,rtmp://9sv2.mine.nu/sat/tv421
 TVBS新闻,rtmp://9sv2.mine.nu/sat/tv551
 TVB经典,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571197&extension=ts
 TVB星河,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153506
@@ -721,7 +707,6 @@ WWE,https://live.metshop.top/huya/20971519
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/1/224/3221228524/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 华视,rtmp://9sv2.mine.nu/sat/tv111
-精品萌宠,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/1/224/3221228430/index.m3u8
 民视,rtmp://9sv2.mine.nu/sat/tv051
 千禧经典,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153503
 台视,rtmp://9sv2.mine.nu/sat/tv071
@@ -729,7 +714,6 @@ WWE,https://live.metshop.top/huya/20971519
 纬来体育,rtmp://9sv2.mine.nu/sat/tv721
 纬来育乐,rtmp://9sv2.mine.nu/sat/tv701
 无线新闻台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153399
-中国功夫,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225681/1.m3u8
 中视,rtmp://9sv2.mine.nu/sat/tv091
 中天亚洲,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571212
 
@@ -740,4 +724,4 @@ WWE,https://live.metshop.top/huya/20971519
 赛车,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000240630/index.m3u8
 玩具,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000220630/index.m3u8
 悬疑,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000050630/index.m3u8
-无名电视剧,http://221.0.78.198:1681/hls/10276/index.m3u8
+
