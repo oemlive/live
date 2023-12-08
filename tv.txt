@@ -363,6 +363,7 @@ CCTV-央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/
 东方,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
 东方,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001028/index.m3u8
 东方,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001336/index.m3u8
+东方,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228504/index.m3u8
 东南,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001201/index.m3u8
 东南,http://[2409:8087:2001:20:2800:0:df6e:eb0a]/ott.mobaibox.com/PLTV/3/224/3221227670/index.m3u8
 东南,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226182/1.m3u8
@@ -543,7 +544,6 @@ CCTV-央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/
 山东,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226209/index.m3u8
 山东,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001341/index.m3u8
 山东,https://video.lzjtu.edu.cn/liverespath/8b205af319dcc92c60a69a96423af21b24a29ca0/index.m3u8
-上海,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228504/index.m3u8
 深圳,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001030/index.m3u8
 深圳,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221227555/index.m3u8
 深圳,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226199/1.m3u8
