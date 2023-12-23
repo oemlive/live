@@ -177,7 +177,6 @@ CCTV-央视台球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/P
 广东,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228312/index.m3u8
 广东,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228566/index.m3u8
 广东,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226180/1.m3u8
-广西,http://live.gxrb.com.cn/tv/gxtvlive03/index.m3u8
 广西,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001224/index.m3u8
 广西,http://[2409:8087:2001:20:2800:0:df6e:eb05]/ott.mobaibox.com/PLTV/3/224/3221228183/index.m3u8
 贵州,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
@@ -407,12 +406,7 @@ WWE2,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228524/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/1/224/3221228524/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-2,http://wspull.qiandaoapp.com/live/A8Dx77oyByNaKqC0btsoYEQ585UHUXem.flv
-1,http://wspull.qiandaoapp.com/live/sLsr05KWJkBxIKKWAS2svZCNxeeDLKHR.flv
-3,http://wspull.qiandaoapp.com/live/df90f3ae57e1fea505dda9ae311cf307.flv
-4,http://wspull.qiandaoapp.com/live/anbF5UwGSgGEpPwun3TMxcevyWOpuKMX.flv
-5,http://wspull.qiandaoapp.com/live/k17BeY2iOh66ZUTAFSRJSGGR2NzZdq0p.flv
-6,http://wspull.qiandaoapp.com/live/3fskC5ft3Yp4lG0yvw5RUyGEnO7FSPKv.flv
+
 
 
 
